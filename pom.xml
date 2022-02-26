@@ -73,6 +73,12 @@
     <artifactId>commons-io</artifactId>
     <version>2.11.0</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/io.github.densudas/shadowroot-search -->
+<dependency>
+    <groupId>io.github.densudas</groupId>
+    <artifactId>shadowroot-search</artifactId>
+    <version>0.0.2</version>
+</dependency>
 
   </dependencies>
 
@@ -96,6 +102,7 @@
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
+          
         </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>

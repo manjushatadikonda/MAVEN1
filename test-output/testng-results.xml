@@ -1,25 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+<testng-results ignored="0" total="5" passed="2" failed="3" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-13T14:14:39 CST" name="Default suite" finished-at="2022-02-13T14:14:55 CST" duration-ms="15610">
+  <suite started-at="2022-02-24T17:50:18 CST" name="Default suite" finished-at="2022-02-24T17:52:44 CST" duration-ms="146741">
     <groups>
     </groups>
-    <test started-at="2022-02-13T14:14:39 CST" name="Default test" finished-at="2022-02-13T14:14:55 CST" duration-ms="15610">
-      <class name="Mavenprojects.MAVEN1.tester">
-        <test-method is-config="true" signature="launchurl()[pri:0, instance:Mavenprojects.MAVEN1.tester@1ca3b418]" started-at="2022-02-13T14:14:39 CST" name="launchurl" finished-at="2022-02-13T14:14:44 CST" duration-ms="5260" status="PASS">
+    <test started-at="2022-02-24T17:50:18 CST" name="Default test" finished-at="2022-02-24T17:52:44 CST" duration-ms="146741">
+      <class name="Mavenprojects.MAVEN1.gamestop1">
+        <test-method is-config="true" signature="launchurl()[pri:0, instance:Mavenprojects.MAVEN1.gamestop1@50f6ac94]" started-at="2022-02-24T17:50:18 CST" name="launchurl" finished-at="2022-02-24T17:50:26 CST" duration-ms="7820" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchurl -->
-        <test-method signature="clicktesterfood()[pri:0, instance:Mavenprojects.MAVEN1.tester@1ca3b418]" started-at="2022-02-13T14:14:44 CST" name="clicktesterfood" finished-at="2022-02-13T14:14:54 CST" duration-ms="10140" status="FAIL">
-          <exception class="java.lang.ClassCastException">
+        <test-method signature="clicksearch(java.lang.String,java.lang.String)[pri:0, instance:Mavenprojects.MAVEN1.gamestop1@50f6ac94]" started-at="2022-02-24T17:50:27 CST" name="clicksearch" data-provider="sampledata" finished-at="2022-02-24T17:50:57 CST" duration-ms="30391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xbox controller]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[/gaming-accessories/controllers/xbox-one/products/microsoft-xbox-elite-black-series-2-wireless-controller/202695.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicksearch -->
+        <test-method signature="clicksearch(java.lang.String,java.lang.String)[pri:0, instance:Mavenprojects.MAVEN1.gamestop1@50f6ac94]" started-at="2022-02-24T17:50:57 CST" name="clicksearch" data-provider="sampledata" finished-at="2022-02-24T17:51:29 CST" duration-ms="31735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chromebook]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[/consoles-hardware/desktops-laptops/laptop-pc-hardware/products/razer-blade-15-advanced-4k-15.6-in-gaming-laptop-intel-i7-11800h-fhd-360hz-geforce-rtx-3070-16gb-ram-1tb-ssd/318974.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicksearch -->
+        <test-method signature="clicksearch(java.lang.String,java.lang.String)[pri:0, instance:Mavenprojects.MAVEN1.gamestop1@50f6ac94]" started-at="2022-02-24T17:51:29 CST" name="clicksearch" data-provider="sampledata" finished-at="2022-02-24T17:52:10 CST" duration-ms="40991" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[webcam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[/electronics/cameras/cameras-webcams/products/logitech-c922-pro-stream-webcam/215806.html]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
             <message>
-              <![CDATA[class org.openqa.selenium.remote.ShadowRoot cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.remote.ShadowRoot and org.openqa.selenium.WebElement are in unnamed module of loader 'app')]]>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.30', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27b394f202f845985fe5b882b3991109, findElement {using=xpath, value=//span[@class='shopping-cart d-none d-md-block material-icons material-icons-outlined']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62406}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62406/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27b394f202f845985fe5b882b3991109]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.ClassCastException: class org.openqa.selenium.remote.ShadowRoot cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.remote.ShadowRoot and org.openqa.selenium.WebElement are in unnamed module of loader 'app')
-at Mavenprojects.MAVEN1.tester.getShadowRootElement(tester.java:21)
-at Mavenprojects.MAVEN1.tester.clicktesterfood(tester.java:47)
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.30', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27b394f202f845985fe5b882b3991109, findElement {using=xpath, value=//span[@class='shopping-cart d-none d-md-block material-icons material-icons-outlined']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62406}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62406/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27b394f202f845985fe5b882b3991109
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+at Mavenprojects.MAVEN1.gamestop1.clicksearch(gamestop1.java:137)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -50,15 +123,183 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.ClassCastException -->
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- clicktesterfood -->
-        <test-method is-config="true" signature="classclose()[pri:0, instance:Mavenprojects.MAVEN1.tester@1ca3b418]" started-at="2022-02-13T14:14:54 CST" name="classclose" finished-at="2022-02-13T14:14:55 CST" duration-ms="184" status="PASS">
+        </test-method> <!-- clicksearch -->
+        <test-method signature="clicksearch(java.lang.String,java.lang.String)[pri:0, instance:Mavenprojects.MAVEN1.gamestop1@50f6ac94]" started-at="2022-02-24T17:52:10 CST" name="clicksearch" data-provider="sampledata" finished-at="2022-02-24T17:52:27 CST" duration-ms="17209" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bags]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[/clothing/bags/backpacks/products/quest-gleam-series-backpack-hot-pink/305194.html]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.30', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27b394f202f845985fe5b882b3991109, findElement {using=xpath, value=//input[@id='searchRedesignTemplateInput']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62406}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62406/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27b394f202f845985fe5b882b3991109]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.30', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27b394f202f845985fe5b882b3991109, findElement {using=xpath, value=//input[@id='searchRedesignTemplateInput']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62406}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62406/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27b394f202f845985fe5b882b3991109
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+at Mavenprojects.MAVEN1.gamestop1.clicksearch(gamestop1.java:106)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- classclose -->
-      </class> <!-- Mavenprojects.MAVEN1.tester -->
+        </test-method> <!-- clicksearch -->
+        <test-method signature="clicksearch(java.lang.String,java.lang.String)[pri:0, instance:Mavenprojects.MAVEN1.gamestop1@50f6ac94]" started-at="2022-02-24T17:52:27 CST" name="clicksearch" data-provider="sampledata" finished-at="2022-02-24T17:52:44 CST" duration-ms="17206" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[spiderman toys]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[/collectibles/statues/products/diamond-select-toys-marvels-spider-man-miles-morales-gallery-8-in-statue/299381.html]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.30', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27b394f202f845985fe5b882b3991109, findElement {using=xpath, value=//input[@id='searchRedesignTemplateInput']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62406}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62406/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27b394f202f845985fe5b882b3991109]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.30', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27b394f202f845985fe5b882b3991109, findElement {using=xpath, value=//input[@id='searchRedesignTemplateInput']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62406}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62406/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27b394f202f845985fe5b882b3991109
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+at Mavenprojects.MAVEN1.gamestop1.clicksearch(gamestop1.java:106)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicksearch -->
+        <test-method is-config="true" signature="closeall()[pri:0, instance:Mavenprojects.MAVEN1.gamestop1@50f6ac94]" started-at="2022-02-24T17:52:44 CST" name="closeall" finished-at="2022-02-24T17:52:44 CST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeall -->
+      </class> <!-- Mavenprojects.MAVEN1.gamestop1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -3,20 +3,25 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Tests.MobilePageTest">
+      <class name="gamestoppacktest.ItempageTest">
         <methods>
-          <include name="validatecart"/>
           <include name="initializedriver"/>
-          <include name="clean"/>
+          <include name="validatecart"/>
         </methods>
-      </class> <!-- Tests.MobilePageTest -->
-      <class name="Tests.SearchitemresultsTest">
+      </class> <!-- gamestoppacktest.ItempageTest -->
+      <class name="gamestoppacktest.HomePageTest">
+        <methods>
+          <include name="clicksearchbutton"/>
+          <include name="initializedriver"/>
+          <include name="testtitle"/>
+        </methods>
+      </class> <!-- gamestoppacktest.HomePageTest -->
+      <class name="gamestoppacktest.SearchitemresultsTest">
         <methods>
           <include name="initializedriver"/>
           <include name="validateitem"/>
-          <include name="clean"/>
         </methods>
-      </class> <!-- Tests.SearchitemresultsTest -->
+      </class> <!-- gamestoppacktest.SearchitemresultsTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
