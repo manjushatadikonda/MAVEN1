@@ -21,8 +21,6 @@ public class screenshot {
 public void launchurl() throws IOException
 {
    WebDriver driver=null;
-//System.setProperty("webdriver.chrome.driver","C:\\Users\\bhimk\\Desktop\\QA wrk space\\ManjuSelenium\\jars\\chromedriver.exe");
-//WebDriver driver=new ChromeDriver();
 WebDriverManager.chromedriver().setup();
 driver = new ChromeDriver();
 try
