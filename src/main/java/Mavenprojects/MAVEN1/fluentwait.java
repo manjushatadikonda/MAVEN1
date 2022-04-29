@@ -28,6 +28,7 @@ public void launchurl()
 WebDriverManager.chromedriver().setup();
    driver = new ChromeDriver();
         driver.get("https://the-internet.herokuapp.com/dynamic_loading/1");
+       
 }
 @Test
 public void clickonstart()

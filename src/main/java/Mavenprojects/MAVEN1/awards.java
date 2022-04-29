@@ -35,6 +35,7 @@ Assert.assertEquals(80,list.size());
 @Test(dataProvider="testdata")
 public void validate(String awardname,String caption){
 list1=driver.findElements(By.xpath("//div[@class='col-md-8']"));
+
 for(int i=0;i<list1.size();i++)
 {
 //System.out.println(list1.get(i).getText());

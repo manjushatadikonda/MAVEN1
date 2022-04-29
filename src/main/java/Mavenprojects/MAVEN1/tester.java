@@ -77,6 +77,7 @@ public class tester {
 		driver.findElement(By.id("search-input")).sendKeys("isla");
 		driver.findElement(By.id("search-button")).click();
 		List<WebElement> results=driver.findElements(By.id("search-results")//li);
+				results.get(0).is
 		Boolean condition1=results.size()>0;
 		assertTrue(condition1);
 	}

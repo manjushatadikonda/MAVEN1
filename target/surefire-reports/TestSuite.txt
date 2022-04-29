@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.917 s <<< FAILURE! - in TestSuite
+PepperfryTests.HomePageTest.test1  Time elapsed: 2.949 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from target frame detached
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.11', os.name: 'Windows 11', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [067fb0df5f021f17fb59c8f7a2da734f, get {url=https://www.pepperfry.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63940}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63940/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 067fb0df5f021f17fb59c8f7a2da734f
+	at PepperfryTests.HomePageTest.test1(HomePageTest.java:23)
+

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="2" total="5" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[---------------------Ascending Order-----------]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Dark Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Dark Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Dark Pink Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Light Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 2 Seater Sofa In Velvet Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Velvet Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 5 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bolt BedSide Table In Wenge Finish]]>
+    </line>
+    <line>
+      <![CDATA[Carter Tv Entertainment Unit In White & Walnut Colour]]>
+    </line>
+    <line>
+      <![CDATA[Comet Ergonomic Chair In Black & White Colour]]>
+    </line>
+    <line>
+      <![CDATA[Dillon Height Adjustable Study Table In Brown Colour]]>
+    </line>
+    <line>
+      <![CDATA[Edo Sofa Cum Bed In Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious King Size Upholstered Bed In Dark Red Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious King Size Upholstered Bed In Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Dark Red Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Luke Single Door Wardrobe In Walnut Colour]]>
+    </line>
+    <line>
+      <![CDATA[Magnum King Size Upholstered Bed In Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Magnum King Size Upholstered Bed In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Magnum Queen Size Upholstered Bed In Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Magnum Queen Size Upholstered Bed In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Matrix Torin High Back Ergonomic Chair In Black Colourby Trevi Furniture]]>
+    </line>
+    <line>
+      <![CDATA[Norwica TV Unit In Walnut Colour]]>
+    </line>
+    <line>
+      <![CDATA[Norwica TV Unit In Wenge Finish]]>
+    </line>
+    <line>
+      <![CDATA[Ozone 3 Door Wardrobe In Teak Finish]]>
+    </line>
+    <line>
+      <![CDATA[Perfect King Size Upholstered Bed In Baby Pink Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect King Size Upholstered Bed In Dark Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect King Size Upholstered Bed In Olive Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect Queen Size Upholstered Bed In Baby Pink Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect Queen Size Upholstered Bed In Dark Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect Queen Size Upholstered Bed In Olive Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Royal Wing Chair In Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Sapphire Console Table In Brown Colour]]>
+    </line>
+    <line>
+      <![CDATA[Sigma Mid Back Ergonomic Chair In Black Colour]]>
+    </line>
+    <line>
+      <![CDATA[SpaceX High Back Executive Chair In Brown Colour]]>
+    </line>
+    <line>
+      <![CDATA[Storedge 4 Tier Collapsible Shoe Rack]]>
+    </line>
+    <line>
+      <![CDATA[Sultan 4 Seater Dining Set In White Colour]]>
+    </line>
+    <line>
+      <![CDATA[Terry Workstation In Rustic Oak Finish]]>
+    </line>
+    <line>
+      <![CDATA[Toni Collapsible 6 Tier Wardrobe In Multicolour]]>
+    </line>
+    <line>
+      <![CDATA[Victoria TV Unit In Walnut Finish]]>
+    </line>
+    <line>
+      <![CDATA[---------------------Descending Order-----------]]>
+    </line>
+    <line>
+      <![CDATA[Victoria TV Unit In Walnut Finish]]>
+    </line>
+    <line>
+      <![CDATA[Toni Collapsible 6 Tier Wardrobe In Multicolour]]>
+    </line>
+    <line>
+      <![CDATA[Terry Workstation In Rustic Oak Finish]]>
+    </line>
+    <line>
+      <![CDATA[Sultan 4 Seater Dining Set In White Colour]]>
+    </line>
+    <line>
+      <![CDATA[Storedge 4 Tier Collapsible Shoe Rack]]>
+    </line>
+    <line>
+      <![CDATA[SpaceX High Back Executive Chair In Brown Colour]]>
+    </line>
+    <line>
+      <![CDATA[Sigma Mid Back Ergonomic Chair In Black Colour]]>
+    </line>
+    <line>
+      <![CDATA[Sapphire Console Table In Brown Colour]]>
+    </line>
+    <line>
+      <![CDATA[Royal Wing Chair In Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect Queen Size Upholstered Bed In Olive Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect Queen Size Upholstered Bed In Dark Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect Queen Size Upholstered Bed In Baby Pink Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect King Size Upholstered Bed In Olive Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect King Size Upholstered Bed In Dark Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Perfect King Size Upholstered Bed In Baby Pink Colour]]>
+    </line>
+    <line>
+      <![CDATA[Ozone 3 Door Wardrobe In Teak Finish]]>
+    </line>
+    <line>
+      <![CDATA[Norwica TV Unit In Wenge Finish]]>
+    </line>
+    <line>
+      <![CDATA[Norwica TV Unit In Walnut Colour]]>
+    </line>
+    <line>
+      <![CDATA[Matrix Torin High Back Ergonomic Chair In Black Colourby Trevi Furniture]]>
+    </line>
+    <line>
+      <![CDATA[Magnum Queen Size Upholstered Bed In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Magnum Queen Size Upholstered Bed In Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Magnum King Size Upholstered Bed In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Magnum King Size Upholstered Bed In Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Luke Single Door Wardrobe In Walnut Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious Queen Size Upholstered Bed In Dark Red Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious King Size Upholstered Bed In Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Glorious King Size Upholstered Bed In Dark Red Colour]]>
+    </line>
+    <line>
+      <![CDATA[Edo Sofa Cum Bed In Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Dillon Height Adjustable Study Table In Brown Colour]]>
+    </line>
+    <line>
+      <![CDATA[Comet Ergonomic Chair In Black & White Colour]]>
+    </line>
+    <line>
+      <![CDATA[Carter Tv Entertainment Unit In White & Walnut Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bolt BedSide Table In Wenge Finish]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 5 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Velvet Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Grey Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Bali 2 Seater Sofa In Velvet Blue Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Purple Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Light Gray Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Dark Pink Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Dark Green Colour]]>
+    </line>
+    <line>
+      <![CDATA[Arnova Wing Chair In Dark Blue Colour]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18230" started-at="2022-04-27T23:18:11 CDT" finished-at="2022-04-27T23:18:29 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18230" started-at="2022-04-27T23:18:11 CDT" finished-at="2022-04-27T23:18:29 CDT">
+      <class name="PepperfryTests.HomePageTest">
+        <test-method status="PASS" signature="initializedriver()[pri:0, instance:PepperfryTests.HomePageTest@42d7b5]" name="initializedriver" is-config="true" duration-ms="5197" started-at="2022-04-27T23:18:06 CDT" finished-at="2022-04-27T23:18:11 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializedriver -->
+        <test-method status="FAIL" signature="test1()[pri:0, instance:PepperfryTests.HomePageTest@42d7b5]" name="test1" duration-ms="3039" started-at="2022-04-27T23:18:11 CDT" finished-at="2022-04-27T23:18:14 CDT">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from target frame detached
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.11', os.name: 'Windows 11', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [067fb0df5f021f17fb59c8f7a2da734f, get {url=https://www.pepperfry.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63940}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63940/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 067fb0df5f021f17fb59c8f7a2da734f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from target frame detached
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'SANMANU', ip: '192.168.1.11', os.name: 'Windows 11', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [067fb0df5f021f17fb59c8f7a2da734f, get {url=https://www.pepperfry.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\saita\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63940}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63940/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 067fb0df5f021f17fb59c8f7a2da734f
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:567)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:330)
+at PepperfryPages.TestBase.launchURL(TestBase.java:49)
+at PepperfryTests.HomePageTest.test1(HomePageTest.java:23)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:PepperfryTests.HomePageTest@42d7b5]" name="test2" duration-ms="10812" started-at="2022-04-27T23:18:14 CDT" finished-at="2022-04-27T23:18:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:PepperfryTests.HomePageTest@42d7b5]" name="clean" is-config="true" duration-ms="699" started-at="2022-04-27T23:18:29 CDT" finished-at="2022-04-27T23:18:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- PepperfryTests.HomePageTest -->
+      <class name="PepperfryTests.ResultsPageTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:PepperfryTests.ResultsPageTest@dd8682]" name="test1" duration-ms="4326" started-at="2022-04-27T23:18:25 CDT" finished-at="2022-04-27T23:18:29 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[---------------------Ascending Order-----------]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Dark Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Dark Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Dark Pink Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Light Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 2 Seater Sofa In Velvet Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Velvet Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 5 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bolt BedSide Table In Wenge Finish]]>
+            </line>
+            <line>
+              <![CDATA[Carter Tv Entertainment Unit In White & Walnut Colour]]>
+            </line>
+            <line>
+              <![CDATA[Comet Ergonomic Chair In Black & White Colour]]>
+            </line>
+            <line>
+              <![CDATA[Dillon Height Adjustable Study Table In Brown Colour]]>
+            </line>
+            <line>
+              <![CDATA[Edo Sofa Cum Bed In Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious King Size Upholstered Bed In Dark Red Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious King Size Upholstered Bed In Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Dark Red Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Luke Single Door Wardrobe In Walnut Colour]]>
+            </line>
+            <line>
+              <![CDATA[Magnum King Size Upholstered Bed In Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Magnum King Size Upholstered Bed In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Magnum Queen Size Upholstered Bed In Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Magnum Queen Size Upholstered Bed In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Matrix Torin High Back Ergonomic Chair In Black Colourby Trevi Furniture]]>
+            </line>
+            <line>
+              <![CDATA[Norwica TV Unit In Walnut Colour]]>
+            </line>
+            <line>
+              <![CDATA[Norwica TV Unit In Wenge Finish]]>
+            </line>
+            <line>
+              <![CDATA[Ozone 3 Door Wardrobe In Teak Finish]]>
+            </line>
+            <line>
+              <![CDATA[Perfect King Size Upholstered Bed In Baby Pink Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect King Size Upholstered Bed In Dark Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect King Size Upholstered Bed In Olive Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect Queen Size Upholstered Bed In Baby Pink Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect Queen Size Upholstered Bed In Dark Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect Queen Size Upholstered Bed In Olive Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Royal Wing Chair In Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Sapphire Console Table In Brown Colour]]>
+            </line>
+            <line>
+              <![CDATA[Sigma Mid Back Ergonomic Chair In Black Colour]]>
+            </line>
+            <line>
+              <![CDATA[SpaceX High Back Executive Chair In Brown Colour]]>
+            </line>
+            <line>
+              <![CDATA[Storedge 4 Tier Collapsible Shoe Rack]]>
+            </line>
+            <line>
+              <![CDATA[Sultan 4 Seater Dining Set In White Colour]]>
+            </line>
+            <line>
+              <![CDATA[Terry Workstation In Rustic Oak Finish]]>
+            </line>
+            <line>
+              <![CDATA[Toni Collapsible 6 Tier Wardrobe In Multicolour]]>
+            </line>
+            <line>
+              <![CDATA[Victoria TV Unit In Walnut Finish]]>
+            </line>
+            <line>
+              <![CDATA[---------------------Descending Order-----------]]>
+            </line>
+            <line>
+              <![CDATA[Victoria TV Unit In Walnut Finish]]>
+            </line>
+            <line>
+              <![CDATA[Toni Collapsible 6 Tier Wardrobe In Multicolour]]>
+            </line>
+            <line>
+              <![CDATA[Terry Workstation In Rustic Oak Finish]]>
+            </line>
+            <line>
+              <![CDATA[Sultan 4 Seater Dining Set In White Colour]]>
+            </line>
+            <line>
+              <![CDATA[Storedge 4 Tier Collapsible Shoe Rack]]>
+            </line>
+            <line>
+              <![CDATA[SpaceX High Back Executive Chair In Brown Colour]]>
+            </line>
+            <line>
+              <![CDATA[Sigma Mid Back Ergonomic Chair In Black Colour]]>
+            </line>
+            <line>
+              <![CDATA[Sapphire Console Table In Brown Colour]]>
+            </line>
+            <line>
+              <![CDATA[Royal Wing Chair In Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect Queen Size Upholstered Bed In Olive Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect Queen Size Upholstered Bed In Dark Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect Queen Size Upholstered Bed In Baby Pink Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect King Size Upholstered Bed In Olive Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect King Size Upholstered Bed In Dark Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Perfect King Size Upholstered Bed In Baby Pink Colour]]>
+            </line>
+            <line>
+              <![CDATA[Ozone 3 Door Wardrobe In Teak Finish]]>
+            </line>
+            <line>
+              <![CDATA[Norwica TV Unit In Wenge Finish]]>
+            </line>
+            <line>
+              <![CDATA[Norwica TV Unit In Walnut Colour]]>
+            </line>
+            <line>
+              <![CDATA[Matrix Torin High Back Ergonomic Chair In Black Colourby Trevi Furniture]]>
+            </line>
+            <line>
+              <![CDATA[Magnum Queen Size Upholstered Bed In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Magnum Queen Size Upholstered Bed In Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Magnum King Size Upholstered Bed In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Magnum King Size Upholstered Bed In Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Luke Single Door Wardrobe In Walnut Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious Queen Size Upholstered Bed In Dark Red Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious King Size Upholstered Bed In Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Glorious King Size Upholstered Bed In Dark Red Colour]]>
+            </line>
+            <line>
+              <![CDATA[Edo Sofa Cum Bed In Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Dillon Height Adjustable Study Table In Brown Colour]]>
+            </line>
+            <line>
+              <![CDATA[Comet Ergonomic Chair In Black & White Colour]]>
+            </line>
+            <line>
+              <![CDATA[Carter Tv Entertainment Unit In White & Walnut Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bolt BedSide Table In Wenge Finish]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 5 Seater LHS Sectional Sofa In Grey & Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Velvet Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Grey Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Bali 2 Seater Sofa In Velvet Blue Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Purple Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Light Gray Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Dark Pink Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Dark Green Colour]]>
+            </line>
+            <line>
+              <![CDATA[Arnova Wing Chair In Dark Blue Colour]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- PepperfryTests.ResultsPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
