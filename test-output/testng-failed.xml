@@ -3,11 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Mavenprojects.MAVEN1.TestDatabase">
+      <class name="southwestTests.HomePageTest">
         <methods>
-          <include name="SetUpConnection"/>
+          <include name="initializedriver"/>
+          <include name="clicksearchbutton"/>
+          <include name="clean"/>
+          <include name="testtitle"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- Mavenprojects.MAVEN1.TestDatabase -->
+      </class> <!-- southwestTests.HomePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
